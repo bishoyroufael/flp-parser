@@ -6,6 +6,11 @@ Updated Based On The Parser Of [andrewrk](https://github.com/andrewrk/node-flp),
 Currently Tested On **Fl Studio 20.0**
 
 # Usage
+Clone The Repository Using : `git clone https://github.com/b15h0y/flp-parser`
+
+Run The Demo Using : `Node flp.js`
+
+# File API:
 ```
 var flp = require('flp');
 
