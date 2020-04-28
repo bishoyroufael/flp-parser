@@ -2,8 +2,8 @@
 
 # Flp-Parser
 An Unofficial Node.Js Based Parser For *Fl Studio* Projects. 
-Updated Based On The Parser Of [andrewrk](https://github.com/andrewrk/node-flp)
-Currently Tested On **Fl Studio 20**
+Updated Based On The Parser Of [andrewrk](https://github.com/andrewrk/node-flp), 
+Currently Tested On **Fl Studio 20.0**
 
 # Usage
 ```
